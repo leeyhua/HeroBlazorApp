@@ -1,0 +1,7 @@
+C:\Users\jzfjlab13\HeroBlazorApp\publish\HeroBlazorApp.exe
+C:\Users\jzfjlab13\HeroBlazorApp\publish\appsettings.Development.json
+C:\Users\jzfjlab13\HeroBlazorApp\publish\appsettings.json
+C:\Users\jzfjlab13\HeroBlazorApp\publish\HeroBlazorApp.dll
+C:\Users\jzfjlab13\HeroBlazorApp\publish\HeroBlazorApp.deps.json
+C:\Users\jzfjlab13\HeroBlazorApp\publish\HeroBlazorApp.runtimeconfig.json
+C:\Users\jzfjlab13\HeroBlazorApp\publish\HeroBlazorApp.pdb
